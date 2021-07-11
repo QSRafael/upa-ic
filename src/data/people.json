@@ -6,17 +6,17 @@
     },
     "Breno França": {
         "linkedinUrl": "",
-        "imgPath": "",
+        "imgPath": "public/scheduleimages/breno.png",
         "shortBio": "Professor do Instituto de Computação da UNICAMP e coordenador do LASER (Laboratory for Software Engineering and Reliability), onde conduz pesquisas relacionadas à Engenharia de Software Experimental, Métodos Ágeis de Desenvolvimento de Software, Arquitetura de Software, e Simulação Computacional. Possui doutorado em Engenharia de Sistemas e Computação pela COPPE/UFRJ, onde também realizou estágio de Pós-Doutorado. Concluiu o mestrado e a graduação em Ciência da Computação pela Universidade Federal do Pará (UFPA). Atuou em parceria com diferentes organizações (públicas e privadas) no contexto de Pesquisa & Desenvolvimento para aquisição, avaliação e transferência de tecnologias com apoio de métodos de experimentação, melhoria de processos de desenvolvimento software e capacitação em Engenharia de Software."
     },
     "Akari Ueda": {
         "linkedinUrl": "",
-        "imgPath": "",
+        "imgPath": "public/scheduleimages/akari.jpeg",
         "shortBio": "Akari Ueda foi aluna de Ciência da Computação de 2015 a 2019 na Unicamp, onde teve contato com oportunidades de pesquisa, atividades extra curriculares e estágios. Hoje ela trabalha como Engenheira de Software na Microsoft e passa suas horas vagas tentando convencer todo mundo a estudar computação."
     },
     "Esther Luna Colombini": {
         "linkedinUrl": "",
-        "imgPath": "",
+        "imgPath": "public/scheduleimages/esther.png",
         "shortBio": "Esther Luna Colombini é professora do Instituto de Computação da Unicamp desde 2016, onde coordena o Laboratório de Robótica e Sistemas Cognitivos (LaRoCS). Seus interesses de pesquisa incluem aprendizado de máquina e IA para robótica autônoma e saúde, com interesse particular em aprendizado por reforço e modelos atenciosos, modelagem cognitiva e robótica na educação. Foi presidente da RoboCup Brasil, cofundadora e coordenadora da Olimpíada Brasileira de Robótica e da Mostra Nacional de Robótica, duas iniciativas públicas apoiadas pelo CNPq que atingem anualmente mais de 230.000 alunos com o objetivo de atraí-los para carreiras em STEM. Nos últimos 15 anos, trabalhou com a comunidade de robótica autônoma para fomentar a área por meio de competições científicas. É membro do Advanced Institute for Artificial Intelligence (AI2) e pesquisadora do Center for Artificial Intelligence (C4Ai) e do Instituto Brasileiro de Neurociências e Neurotecnologia (BRAINN). Coordena no Brasil uma iniciativa do BRICS para uso de IA no combate ao COVID-19. É atualmente coordenadora do curso de Ciência da Computação."
     },
     "Sandra, Esther e Juliana": {
@@ -26,7 +26,7 @@
     },
     "Alec Santos": {
         "linkedinUrl": "",
-        "imgPath": "",
+        "imgPath": "public/scheduleimages/alec.png",
         "shortBio": "Presidente do GAMUX, Alec é  aluno de Ciência da Computação na UNICAMP desde 2018. Ele desenvolve jogos como projetos pessoais e trabalha também como tradutor de jogos."
     },
     "Lehilton Pedrosa": {
@@ -36,7 +36,7 @@
     },
     "Felipe Bidu": {
         "linkedinUrl": "",
-        "imgPath": "",
+        "imgPath": "public/scheduleimages/fbidu.png",
         "shortBio": "Felipe \"Bidu\" é formado em Ciência da Computação, no IC. Com mais de 10 anos de experiência, possui uma carreira que passou por diversas áreas da computação e do desenvolvimento de produtos e serviços digitais. Atualmente, é engenheiro senior na Doist e expert em Ciência de Dados e Modelagem na Tera."
     },
     "Ana Clara e Henrique Foerste": {
@@ -46,27 +46,27 @@
     },
     "André Santanché": {
         "linkedinUrl": "",
-        "imgPath": "",
+        "imgPath": "public/scheduleimages/andre.png",
         "shortBio": "André Santanchè é doutor em ciência da computação e professor do Instituto de Computação (IC), coordenador do Laboratório de Sistemas de Informação (LIS) no IC e diretor do Museu Exploratório de Ciências da Unicamp. Além da experiência acadêmica, já foi empreendedor na área de computação, inclusive em uma startup. Seus interesses de pesquisa são principalmente ciência de dados e educação, com aplicações em saúde."
     },
     "Ygor Silva": {
         "linkedinUrl": "",
-        "imgPath": "",
+        "imgPath": "public/scheduleimages/ygor.png",
         "shortBio": "Ygor Silva é estudante do primeiro ano de Ciência de Computação, onde já está encantado com as oportunidades à sua volta. Recentemente, tem tido grande interesse em Inteligência Artificial e Aprendizado de Máquina e encontra na universidade um espaço sólido de discussão e de crescimento."
     },
     "Rafael Eiki": {
         "linkedinUrl": "",
-        "imgPath": "",
+        "imgPath": "public/scheduleimages/rafael.png",
         "shortBio": "Formado em Ciência da Computação na UNICAMP, fez pesquisa em tecnologia para educação, fundou uma startup que foi levada para o Vale do Silício, e hoje é engenheiro de software no QuintoAndar. Tem no currículo empresas como PlayKids (Movile) e Microsoft, além de 35 prêmios acadêmicos, de inovação e de empreendedorismo."
     },
     "Flávia Pisani": {
         "linkedinUrl": "",
-        "imgPath": "",
+        "imgPath": "public/scheduleimages/flavia.png",
         "shortBio": ""
     },
     "Guilherme Furlan": {
         "linkedinUrl": "",
-        "imgPath": "",
+        "imgPath": "public/scheduleimages/guilherme.png",
         "shortBio": ""
     },
     "Ana Claudia": {
@@ -76,7 +76,7 @@
     },
     "Beatriz Inácio": {
         "linkedinUrl": "",
-        "imgPath": "",
+        "imgPath": "public/scheduleimages/beatriz.png",
         "shortBio": "Formada em Ciência da Computação na UNICAMP em 2020, trabalha na área da computação há 7 anos. Já foi estagiária, tester, desenvolvedora backend e Scrum Master. Hoje é Analista de Negócio."
     },
     "Marcela Medicina": {
@@ -86,7 +86,7 @@
     },
     "Thiago Amendola": {
         "linkedinUrl": "",
-        "imgPath": "",
+        "imgPath": "public/scheduleimages/thiago.png",
         "shortBio": "Vou contar sobre o início da minha graduação, como minha afinidade por games me fez conhecer o Gamux e o impacto disso para minha carreira no exterior."
     },
     "Conpec": {
